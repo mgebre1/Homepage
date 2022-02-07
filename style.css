@@ -1,0 +1,114 @@
+body {
+  background-image: url(img6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  font-size: large;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: dotted;
+}
+img{
+margin-top: 0em;
+inline-size: auto;
+border-radius: 50%;
+}
+p{
+
+  font-style: italic;
+
+}
+
+h2{
+  text-align: center;
+}
+
+#interest {
+
+background-color: steelblue;
+width:30%;
+text-align: left;
+float: right;
+height: fit-content;
+margin-bottom: 70px;
+margin-right: 70px;
+border-radius: 25%;
+box-shadow: 2px 2px 20px 23px #7fecad;
+
+}
+.education{
+   background-color: steelblue;
+   margin-top: -55px 45px;
+   padding-left: 0pt;
+   float: left;
+   border-color: transparent;
+   border-radius: 25%;
+   text-align: left;
+   box-shadow: 2px 2px 20px 23px #022746;
+ 
+}
+
+  .hobbies {
+ background-color: steelblue;
+ width: 25%;
+ float: right;
+ margin-bottom: 15px;
+ margin-top: 60px;
+ border-radius: 15%;
+ text-align: left;
+ box-shadow: 2px 2px 20px 23px #041d0e;
+
+}
+
+tr:nth-child(even) {
+  background-color: #168832;
+}
+tr:nth-child(odd) {
+  background-color: salmon;
+}
+
+
+ul {
+  list-style: none;
+}
+.image {
+  text-align: center;
+  
+  box-shadow: 2px 2px 20px 23px #041d0e;
+
+}
+
+table {
+
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 0;
+  margin-top: 305px;
+
+
+
+}
+
+#bulleted{
+  list-style: circle;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 16px;
+}
+
+div {
+  text-align: center;
+}
+h1 {
+  text-transform: uppercase;
+  text-emphasis-color: red;
+}
+a:hover {
+  background-color: yellow;
+}
